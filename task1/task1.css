@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.box{
+    width:20px;
+    height:20px;
+    float: left;
+    background-color: coral;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
