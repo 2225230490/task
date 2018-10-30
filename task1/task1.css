@@ -2,10 +2,10 @@ body{
     margin: 0;
 }
 .box{
-    width:20px;
-    height:20px;
+    width:30%;
     float: left;
     background-color: coral;
     margin-bottom: 5px;
     margin-left: 5px;
+    padding-top: 30%;
 }
