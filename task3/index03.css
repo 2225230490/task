@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color:#68cdd5;
+    width: 100%;
+}
+.picture1{
+  margin-top: 1%;
+    margin-left: 1%;
+}
+.picture2{
+    text-align: center;
+    margin-top: 10%;
+}
+p{color:#ffffff;
+    text-align: center;
+    font-size: 120%;
+}
+.picture3{
+    float: left;
+    margin-left: 10%;
+}
+.picture4 {
+    float: right;
+    margin-right:10%
+}
+.txt{color: #ffffff
+
+}
