@@ -37,7 +37,6 @@ input{
     padding: 12px;
     font-size: 20px;
     float: right;
-
     background-color: white;
 
     /*oninput="value=value.replace(/[^\d]/g,'')"*/
