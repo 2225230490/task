@@ -1,0 +1,120 @@
+body{
+    width:100%;
+    margin: 0;
+    background-color: #eff0f4;
+
+}
+.header{
+   background-color:#5fc0cd;
+    width: 100%;
+    height: 28px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.header_close{
+    margin-left: 5%;
+    font-size: 15px;
+}
+.header_log{
+    text-align: center;
+    line-height:100%;
+    font-size: 20px;
+}
+.header_register{
+    margin-right: 5%;
+    font-size: 15px;
+}
+.section{
+    height:4rem;
+    margin:.5rem;
+    background-color: white;
+}
+input{
+    border:0px #ccc solid;outline:none;
+    width: 86%;
+    height: 36px;
+    padding: 12px;
+    font-size: 20px;
+    float: right;
+
+    background-color: white;
+
+    /*oninput="value=value.replace(/[^\d]/g,'')"*/
+}
+.section_clock{
+    margin-top: 10px;
+    margin-left: 2.5rem;
+    border-right: 1px solid #bababa;
+    padding-right: 2rem;
+}
+.section_mobile{
+    margin-top: 9px;
+    margin-left:2.5rem;
+    border-right: 1px solid #bababa;
+    margin-right: 1px;
+    padding-right: 2rem;
+
+}
+.section2{
+    height:4rem;
+    margin:.5rem;
+    background-color: white;
+}
+.footer{
+    height: 40px;
+    background-color:#5fc0cd;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+}
+.footer_txt1{
+    margin-left: 32rem;
+}
+.footer_txt2{
+    margin-left: 1rem;
+}
+.txt3{
+    font-size: 16px;
+    color: #68cdd5;
+    float:right;
+}
+
+.button1{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    background-color: #5fc0cd;
+    color: white;
+    font-size: 20px;
+}
+.
+/*input{*/
+    /*height: 20px;*/
+    /*width: 93%;*/
+    /*border: 0;outline:none;cursor: pointer;*/
+    /*font-size: 31px;*/
+    /*padding: 1%;*/
+    /*margin-left: 1%;*/
+    /*margin-top: 1%;*/
+    /*color:#e1e5e7;*/
+    /*display: flex;*/
+/*!*input{*!*/
+    /*!*width: 80%;*!*/
+    /*!*height: 35px;*!*/
+/*!*}*!*/
+/*!*.content-password{*!*/
+    /*!*margin-left: 15px;*!*/
+    /*!*margin-top: 15px;*!*/
+/*}*/
+/*.mobile{*/
+    /*margin-top: 5px;*/
+    /*margin-left:12px;*/
+/*}*/
+/*.clock{*/
+    /*margin-top: 14px;*/
+    /*margin-left: 12px;*/
+/*}*/
+
+
