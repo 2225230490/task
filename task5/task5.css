@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+.header{
+    position:absolute;
+    left:10rem;
+    top:10rem;
+    width:100%;
+    height:8rem;
+    font-size:2rem;
+    background-color: #68cdd5;
+    color: white;
+    text-align: center;
+}
+.header-quilt{
+    float: left;
+    margin-left: 1rem;
+    margin-top: .5rem;
+}
+.section{
+    width: 100%;
+    height: 10rem;
+    background-image:url("img/task5.2.png");
+    background-repeat: no-repeat;
+    background-size:80px 60px;
+
+}
+/*.section-bacground{*/
+    /*width: 100%;*/
+/*}*/
+/*.section-person{*/
+    /*margin-top: 1rem;*/
+    /*margin-left: 1rem;*/
+/*}*/
